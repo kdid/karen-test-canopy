@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://kdid.github.io/karen-test-canopy
+
+# Sitemaps
+Sitemap: https://kdid.github.io/karen-test-canopy/sitemap.xml
